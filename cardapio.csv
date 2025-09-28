@@ -1,0 +1,11 @@
+id,nome,preco,categoria
+1,Pizza Margherita,25.90,Pizza
+2,Hambúrguer Artesanal,18.50,Lanches
+3,Salada Caesar,15.00,Saladas
+4,Suco Natural,8.00,Bebidas
+5,Pizza Calabresa,27.00,Pizza
+6,Sanduíche Natural,12.00,Lanches
+7,Coca-Cola Lata,6.00,Bebidas
+8,Lasanha Bolonhesa,32.00,Massas
+9,Espaguete ao Alho e Óleo,28.00,Massas
+10,Pizza Quatro Queijos,30.00,Pizza
